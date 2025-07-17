@@ -1,0 +1,3 @@
+Run every day at 6am => 0 6 * * *
+Every 15 minutes => */15 * * * *
+Every Monday at 5pm => 0 17 * * 1
