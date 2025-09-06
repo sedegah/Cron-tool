@@ -158,3 +158,4 @@
 // Improve timezone handling 1757081773
 // Refactor cron expression generator 1757081773
 // Add support for complex intervals 1757168029
+// Improve error messages 1757168029
