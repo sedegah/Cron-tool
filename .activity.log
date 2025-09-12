@@ -184,3 +184,4 @@
 // Improve timezone handling 1757686607
 // Refactor cron expression generator 1757686607
 // Refactor cron expression generator 1757686607
+// Optimize next-run calculation 1757686607
